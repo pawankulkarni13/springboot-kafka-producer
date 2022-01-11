@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>Gradle</ID>
+  <OriginalElement>springboot-kafka-producer/springboot-kafka-producer</OriginalElement>
+  <nodes>
+    <node x="0.0" y="818.9166666666666">springboot-kafka-producer/springboot-kafka-producer</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="99.0" y="828.5" />
+  <SelectedNodes>
+    <node>springboot-kafka-producer/springboot-kafka-producer</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Show Paths: Root -&gt; Selection</Category>
+  </Categories>
+  <VISIBILITY>all</VISIBILITY>
+</Diagram>
+
